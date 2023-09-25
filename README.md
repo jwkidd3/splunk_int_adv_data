@@ -1,6 +1,4 @@
-# splunk_int_adv_data
-
-# Splunk Int/Adv
+# Splunk Int/Adv Data
 
 ## Data Load
 There are 4 indexes in this class: web, security, sales and network <br>
